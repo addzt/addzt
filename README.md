@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Hello,%20World!&fontSize=60&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=68)
 
+![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=3153rhjpygpibx6qswwk3eratnyu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3153rhjpygpibx6qswwk3eratnyu&cover_image=true&theme=default&bar_color=2ea22a&bar_color_cover=false)
 <!--
 **addzt/addzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
