@@ -5,8 +5,12 @@
 - 🌱 I’m currently learning shell, python
 - 📧 How to reach me **addzt@yandex.ru**
 
-![Metrics](/github-metrics.svg)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153rhjpygpibx6qswwk3eratnyu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3153rhjpygpibx6qswwk3eratnyu&redirect=true)
+<div align="left">
+  <div style="display: flex;">
+  <img align=top src="/github-metrics.svg" alt="Metrics" width="400">
+  <img align=top src="https://spotify-github-profile.vercel.app/api/view?uid=3153rhjpygpibx6qswwk3eratnyu&cover_image=true&theme=default">
+ </div>
+</div>
 
 ### Contact with me:
 <a href="https://t.me/addzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/addzt/addzt/main/icons/contacts/telegram-logo.svg" alt="telegram" height="50" width="50" /></a>
