@@ -7,7 +7,7 @@
 
 <div align="left">
   <div style="display: flex;">
-  <img align=top src="/github-metrics.svg" alt="Metrics" width="600">
+  <img align=top src="/github-metrics.svg" alt="Metrics" width="500">
  </div>
 </div>
 
