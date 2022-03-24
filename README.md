@@ -7,8 +7,7 @@
 
 <div align="left">
   <div style="display: flex;">
-  <img align=top src="/github-metrics.svg" alt="Metrics" width="400">
-  <img align=top src="https://spotify-github-profile.vercel.app/api/view?uid=3153rhjpygpibx6qswwk3eratnyu&cover_image=true&theme=default">
+  <img align=top src="/github-metrics.svg" alt="Metrics" width="600">
  </div>
 </div>
 
